@@ -1,4 +1,4 @@
-# structural-memory-research
+
 # Structural Memory Research
 
 Code, figures, and reproducibility materials supporting the Structural Memory Trilogy by Henry Claus.
