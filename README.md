@@ -49,7 +49,15 @@ Figures:
 `figures/paper_c_free_energy/`
 
 ---
+Software Archive
 
+Zenodo Software DOI:
+
+https://doi.org/10.5281/zenodo.20616486
+
+This archive contains the versioned code and figure-generation materials associated with the Structural Memory Trilogy.
+
+---
 ## Research Themes
 
 * Structural Memory
